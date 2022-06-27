@@ -1,0 +1,6 @@
+Q1: 2 16.19
+Q2: 2 19M
+Q3: jupyter nbconvert starter.ipynb --to python
+Q4: sha256:08ef968f6b72033c16c479c966bf37ccd49b06ea91b765e1cc27afefe723920b
+Q5: 2 16.29
+Q6: 1 9.96
