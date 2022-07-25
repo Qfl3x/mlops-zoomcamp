@@ -1,0 +1,10 @@
+Q1:
+if __name__ == "__main__":
+	year = int(sys.argv[1])
+	month = int(sys.argv[2])
+	main(year, month)
+Q2: __init__.py
+Q3: 2
+Q4: aws --endpoint-url=http://localhost:4566 s3 mb s3://nyc-duration
+Q5: 3.8kb
+Q6: 18031624.216666654
